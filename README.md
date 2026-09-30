@@ -100,7 +100,7 @@ TAPRA-2026/
      --settings ECHO_FUNCTION_URL="https://tapra-2026-func.azurewebsites.net/api/echo"
    ```
 
-   <img> estrutura do projeto.png </img>
+   ![](estrutura do projeto.png)
 
 ## Referências
 
