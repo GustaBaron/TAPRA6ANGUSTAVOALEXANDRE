@@ -100,6 +100,8 @@ TAPRA-2026/
      --settings ECHO_FUNCTION_URL="https://tapra-2026-func.azurewebsites.net/api/echo"
    ```
 
+   <img> estrutura do projeto </img>
+
 ## Referências
 
 - [Documentação oficial - HTTP trigger no Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-trigger)
