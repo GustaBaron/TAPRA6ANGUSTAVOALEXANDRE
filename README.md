@@ -4,9 +4,8 @@ Projeto de Azure Functions desenvolvido para a atividade da disciplina, contendo
 
 ## Integrantes da equipe
 
-- Nome completo 1
-- Nome completo 2
-- Nome completo 3
+- Gustavo Alexandre de Souza
+
 
 > Substitua a lista acima pelos nomes reais dos integrantes da equipe.
 
